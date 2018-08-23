@@ -1,0 +1,97 @@
+﻿<Page x:Class="zeljkonrt7514_diplomski.Podesavanja"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:zeljkonrt7514_diplomski"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Podesavanja" Width="900" Height="620" Background="Transparent" Loaded="Load">
+
+    <Grid ShowGridLines="False">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="600"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+            <RowDefinition Height="62"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--Kraj definisanja grida- Osnova-->
+
+        <Grid Grid.Column="1" Grid.Row="0" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniUsername" Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <TextBox x:Name="txtIzmeniUsername" TextWrapping="Wrap" Text="zeljkomax" Margin="233,15,117,15"  Style="{StaticResource TextBoxSettings}" Height="32" BorderBrush="#FF9E9E9E"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="1" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniPassword" Content="Password:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <PasswordBox x:Name="pbIzmeniPassword" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" Height="32" Width="250" Background="White" Foreground="#FF51326A" BorderThickness="1" BorderBrush="#FFECECEC" HorizontalAlignment="Left" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" Margin="233,15,0,15"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="2" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniImePrezime" Content="Ime i prezime:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <TextBox x:Name="txtIzmeniImePrezime" TextWrapping="Wrap" Text="Ime i Prezime" Margin="233,15,117,15"  Style="{StaticResource TextBoxSettings}" Height="32" BorderBrush="#FF9E9E9E"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="3" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniVisinu" Content="Visina:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <TextBox x:Name="txtIzmeniVisinu" TextWrapping="Wrap" Text="Visina" Margin="233,15,117,15"  Style="{StaticResource TextBoxSettings}" Height="32" BorderBrush="#FF9E9E9E"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="4" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniTezinu" Content="Tezina:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <TextBox x:Name="txtIzmeniTezinu" TextWrapping="Wrap" Text="Tezina" Margin="233,15,117,15"  Style="{StaticResource TextBoxSettings}" Height="32" BorderBrush="#FF9E9E9E"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="5" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniGodine" Content="Godine:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <TextBox x:Name="txtIzmeniGodine" TextWrapping="Wrap" Text="Godine" Margin="233,15,117,15"  Style="{StaticResource TextBoxSettings}" Height="32" BorderBrush="#FF9E9E9E"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="6" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniAktivnost" Content="Aktivnost:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <ComboBox x:Name="cbAktivnost" HorizontalAlignment="Left" VerticalAlignment="Top" Width="249" Margin="233,21,0,0" Style="{StaticResource ComboBoxStyle}"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="7" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmeniCilj" Content="Cilj:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <StackPanel HorizontalAlignment="Left" Height="62" Orientation="Horizontal"  Width="248" Margin="234,0,0,0">
+                <RadioButton x:Name="rbPovecajKilazu" Content="Povecaj kilazu" VerticalAlignment="Center" Foreground="#FF51326A"/>
+                <RadioButton x:Name="rbSmanjiKilazu" Content="Smanji kilazu" VerticalAlignment="Center" Margin="67,0,0,0" Foreground="#FF51326A"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="8" Background="#FFF6EAFF">
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+            <Label x:Name="lblIzmenipol" Content="Pol:" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="108,15,0,15" Background="{x:Null}" Foreground="#FF674781"/>
+            <StackPanel HorizontalAlignment="Left" Height="62" Orientation="Horizontal"  Width="248" Margin="234,0,0,0">
+                <RadioButton x:Name="rbMusko" Content="Musko" VerticalAlignment="Center" Foreground="#FF51326A"/>
+                <RadioButton x:Name="rbZensko" Content="Zensko" VerticalAlignment="Center" Margin="103,0,0,0" Foreground="#FF51326A"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="9" Background="#FFF6EAFF">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="22"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Border BorderThickness="0,0,0,1" BorderBrush="#FFB092CB"/>
+                <Label x:Name="lblIzmeniSliku" Content="Slika Profila:" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" FontSize="18" Margin="103,0,0,0" Background="{x:Null}" Foreground="#FF674781" Height="35" Width="112"/>
+                <Button x:Name="btnDodajSliku" Content="Dodaj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="266,6,0,0" Click="btnDodajSliku_Click" Style="{StaticResource SettingsButton}" Height="29"/>
+            </Grid>
+            <Grid Grid.Row="1" Background="#FFE9D6F7">
+                <Button x:Name="btnSacuvajPromene" Content="Sacuvaj Promene" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btnSacuvajPromene_Click" Style="{StaticResource SettingsButton}" Height="Auto" Width="Auto"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

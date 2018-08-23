@@ -1,0 +1,94 @@
+﻿<Window x:Class="zeljkonrt7514_diplomski.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zeljkonrt7514_diplomski"
+        mc:Ignorable="d"
+        Title="Licni Trener" Height="700" Width="1100" WindowStyle="None" AllowsTransparency="True" Loaded="Load" Background="#FFFBFBFB" ResizeMode="CanResizeWithGrip">
+    <Grid x:Name="MainWindowGrid">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+                <GradientStop Color="#FFC0AFCF"/>
+                <GradientStop Color="#FFF9F8FA" Offset="0.844"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="lblSingIn" Content="SIGN IN" HorizontalAlignment="Left" Margin="805,108,0,0" VerticalAlignment="Top" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato Black" Height="42" Width="104" FontSize="24" Foreground="#FF51326A"/>
+        <TextBox x:Name="txtPassword" TextWrapping="Wrap" Text="Password" Margin="733,327,117,346" Style="{StaticResource TextBoxRegistrationPage}" LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus"/>
+        <TextBox x:Name="txtUsername" TextWrapping="Wrap" Text="Username" Margin="733,282,117,0" Style="{StaticResource TextBoxRegistrationPage}" GotFocus="textBox_GotFocus" LostFocus="textBox_LostFocus"/>
+        <Button x:Name="btnLogIn" Content="Log In" Margin="765,419,153,238" Style="{StaticResource LoginRegisterButton}" Click="btnLogin_Click"/>
+        <Button x:Name="btnRegister" Content="Sign Up"  Canvas.Left="816" Canvas.Top="512" Style="{StaticResource LoginRegisterButton}" Margin="765,511,153,146" >
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click" >
+                    <BeginStoryboard  Storyboard="{StaticResource LogInAnimation}"></BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Label x:Name="lblOr" Content="OR" HorizontalAlignment="Left" Margin="840,473,0,0" VerticalAlignment="Top" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato Black" Height="28" Width="35" FontSize="16" Foreground="#FF51326A"/>
+        <!--Sing Up Start-->
+        <Label x:Name="lblSingUp" Content="SIGN UP" HorizontalAlignment="Left" Margin="184,31,0,0" VerticalAlignment="Top" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato Black" Height="42" Width="104" FontSize="24" Foreground="#FF51326A" Opacity="0"/>
+        <TextBox x:Name="txtPasswordSingUp" TextWrapping="Wrap" Text="Password" Margin="115,152,735,0" Style="{StaticResource TextBoxRegistrationPage}" LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus" Opacity="0"/>
+        <TextBox x:Name="txtUsernameSingUp" TextWrapping="Wrap" Text="Username" Margin="115,103,735,0" Style="{StaticResource TextBoxRegistrationPage}" GotFocus="textBox_GotFocus" LostFocus="textBox_LostFocus" Opacity="0"/>
+        <PasswordBox x:Name="pbPasswordSingUp" Margin="115,152,735,0" Style="{StaticResource PasswordBoxStyle}" Visibility="Hidden" LostFocus="pbPassword_LostFocus"/>
+        <PasswordBox x:Name="pbPassword" Margin="733,327,117,346" Style="{StaticResource PasswordBoxStyle}" Visibility="Hidden" LostFocus="pbPassword_LostFocus"/>
+        <TextBox x:Name="txtImePrezime" TextWrapping="Wrap" Text="Ime i Prezime" Margin="115,202,735,0" Style="{StaticResource TextBoxRegistrationPage}" GotFocus="textBox_GotFocus" LostFocus="textBox_LostFocus" Opacity="0"/>
+        <TextBox x:Name="txtVisina" TextWrapping="Wrap" Text="Visina" Margin="115,250,735,0" Style="{StaticResource TextBoxRegistrationPage}" LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus" Opacity="0"/>
+        <TextBox x:Name="txtTezina" TextWrapping="Wrap" Text="Tezina" Margin="115,298,735,0" Style="{StaticResource TextBoxRegistrationPage}" LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus" Opacity="0"/>
+        <TextBox x:Name="txtGodine" TextWrapping="Wrap" Text="Godine" Margin="115,350,735,0" Style="{StaticResource TextBoxRegistrationPage}" LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus" Opacity="0"/>
+        <ComboBox x:Name="cbAktivnost" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Margin="115,399,0,0" Style="{StaticResource ComboBoxStyle}" Opacity="0"/>
+        <StackPanel x:Name="stackRbPol" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="87" Margin="115,441,0,0" Opacity="0">
+            <RadioButton x:Name="rbMusko" Content="Musko" VerticalAlignment="Top" Style="{StaticResource LoginRadioButton}" HorizontalAlignment="Left" Width="55"/>
+            <RadioButton x:Name="rbZensko" Content="Zensko" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LoginRadioButton}"/>
+        </StackPanel>
+        <StackPanel x:Name="stackRbKilaza" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="99" Canvas.Left="272" Canvas.Top="356" Margin="266,441,0,0" Opacity="0">
+            <RadioButton x:Name="rbPovecaj" Content="Povecam kilazu" HorizontalAlignment="Left" VerticalAlignment="Top" Height="16" Margin="0,0,-18,0" Width="105" Style="{StaticResource LoginRadioButton}"/>
+            <RadioButton x:Name="rbSmanji" Content="Smanjim kilazu" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LoginRadioButton}"/>
+        </StackPanel>
+        <Button x:Name="btnLogInSU" Content="Log In" Margin="149,612,769,45" Style="{StaticResource LoginRegisterButton}" Opacity="0">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click" >
+                    <BeginStoryboard  Storyboard="{StaticResource SingUpAnimation}"></BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button x:Name="btnRegisterSingUp" Content="Sign Up"  Canvas.Left="816" Canvas.Top="512" Style="{StaticResource LoginRegisterButton}" Margin="149,520,769,137" Click="btnRegisterSingUp_Click" Opacity="0">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click" >
+                    <BeginStoryboard  Storyboard="{StaticResource LogInAnimation}"></BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Label x:Name="lblOrSU" Content="OR" HorizontalAlignment="Left" Margin="226,574,0,0" VerticalAlignment="Top" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato Black" Height="28" Width="35" FontSize="16" Foreground="#FF51326A" Opacity="0"/>
+        <!--Sing Up End-->
+        <Canvas HorizontalAlignment="Left" Height="700" VerticalAlignment="Top" Width="1192" Margin="-48,0,-44,0">
+            <Rectangle x:Name="rectPomeri" HorizontalAlignment="Left" Height="701" VerticalAlignment="Top" Width="602" Canvas.Top="-1" Canvas.Left="48" >
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="Image/startscreen_bg.jpg" />
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock x:Name="tbLicniTrener" TextWrapping="Wrap" Canvas.Left="138" Canvas.Top="274" Height="74" Width="452" FontSize="60" Foreground="#FFECECEC" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato">
+                <Run Text="LIC"/><Run Text="NI TRENER"/><LineBreak/><Run/></TextBlock>
+            <TextBlock x:Name="tbLicniTrenerText" TextWrapping="Wrap" Text="LICNI TRENER je  besplatan brojac kalorija koji umesto vas kalkulise i prati koliko ste hranljivih materija uneli u organizam.  Ova aplikacija ce vam pomoci da preuzmete kontrolu nad svojim treningom nudeci veliki izbor vezbackih rutina. " Canvas.Left="114" Canvas.Top="350" Height="84" Width="452" FontSize="14" Foreground="#FFECECEC" FontFamily="/zeljkonrt7514_diplomski;component/Font/#Lato" />
+            <Image x:Name="imgLogo" HorizontalAlignment="Left" Height="139" VerticalAlignment="Top" Width="152" Source="Image/menu_icon/logo.png" Canvas.Left="255" Canvas.Top="110"/>
+        </Canvas>
+        <Frame x:Name="frmMain" NavigationUIVisibility="Hidden"/>
+        <StackPanel HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="68" Orientation="Horizontal" Margin="1025,7,0,0">
+            <Button x:Name="btnTray" Content="Button" Margin="0,0,0,0" Style="{StaticResource TabButtonStyle}" Click="tabButton_Click" Tag="2">
+                <Button.Background>
+                    <ImageBrush ImageSource="Image/tab_icon/tray_icon.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="btnMaximaze" Content="Button" Margin="5,0,0,0" Style="{StaticResource TabButtonStyle}" Click="tabButton_Click" Tag="1">
+                <Button.Background>
+                    <ImageBrush ImageSource="Image/tab_icon/maximize_icon.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="btnExit" Content="Button" Margin="5,0,0,0" Style="{StaticResource TabButtonStyle}" Click="tabButton_Click" Tag="0">
+                <Button.Background>
+                    <ImageBrush ImageSource="Image/tab_icon/exit_icon.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <PasswordBox x:Name="pbTest" HorizontalAlignment="Left" VerticalAlignment="Top" Width="180" Margin="410,505,0,0" Height="49" Visibility="Hidden"/>
+    </Grid>
+</Window>

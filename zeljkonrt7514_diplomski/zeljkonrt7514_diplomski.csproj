@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9D22F29D-6E28-4E25-B7A4-077A1C969612}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zeljkonrt7514_diplomski</RootNamespace>
+    <AssemblyName>zeljkonrt7514_diplomski</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Sparrow.Chart.Wpf.40, Version=13.1.0.118, Culture=neutral, PublicKeyToken=50f33fb8697e9a92, processorArchitecture=MSIL">
+      <HintPath>..\packages\Sparrow.Chart.Wpf.13.1.0.118\lib\net40\Sparrow.Chart.Wpf.40.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="APITest.xaml.cs">
+      <DependentUpon>APITest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dnevnik.xaml.cs">
+      <DependentUpon>Dnevnik.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FoodCategory.cs" />
+    <Compile Include="RestClient.cs" />
+    <Compile Include="TezinaDnevnik.cs" />
+    <Compile Include="Korisnik.cs" />
+    <Compile Include="Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Namirnice.cs" />
+    <Compile Include="Napredak.xaml.cs">
+      <DependentUpon>Napredak.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Obroci.cs" />
+    <Compile Include="Pocetna.xaml.cs">
+      <DependentUpon>Pocetna.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Podesavanja.xaml.cs">
+      <DependentUpon>Podesavanja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Sql.cs" />
+    <Compile Include="Trening.xaml.cs">
+      <DependentUpon>Trening.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Treninzi.cs" />
+    <Page Include="APITest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dnevnik.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Napredak.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pocetna.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Podesavanja.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trening.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="Font\OpenSans-Bold.ttf" />
+    <Resource Include="Font\OpenSans-BoldItalic.ttf" />
+    <Resource Include="Font\OpenSans-ExtraBold.ttf" />
+    <Resource Include="Font\OpenSans-ExtraBoldItalic.ttf" />
+    <Resource Include="Font\OpenSans-Italic.ttf" />
+    <Resource Include="Font\OpenSans-Light.ttf" />
+    <Resource Include="Font\OpenSans-LightItalic.ttf" />
+    <Resource Include="Font\OpenSans-Regular.ttf" />
+    <Resource Include="Font\OpenSans-SemiBold.ttf" />
+    <Resource Include="Font\OpenSans-SemiBoldItalic.ttf" />
+    <Resource Include="Font\Mundo Sans Std Medium.otf" />
+    <Resource Include="Font\Museo 300.otf" />
+    <Resource Include="Font\SourceSansPro-Black.ttf" />
+    <Resource Include="Font\SourceSansPro-BlackItalic.ttf" />
+    <Resource Include="Font\SourceSansPro-Bold.ttf" />
+    <Resource Include="Font\SourceSansPro-BoldItalic.ttf" />
+    <Resource Include="Font\SourceSansPro-ExtraLight.ttf" />
+    <Resource Include="Font\SourceSansPro-ExtraLightItalic.ttf" />
+    <Resource Include="Font\SourceSansPro-Italic.ttf" />
+    <Resource Include="Font\SourceSansPro-Light.ttf" />
+    <Resource Include="Font\SourceSansPro-LightItalic.ttf" />
+    <Resource Include="Font\SourceSansPro-Regular.ttf" />
+    <Resource Include="Font\SourceSansPro-SemiBold.ttf" />
+    <Resource Include="Font\SourceSansPro-SemiBoldItalic.ttf" />
+    <Resource Include="Font\Roboto-Black.ttf" />
+    <Resource Include="Font\Roboto-BlackItalic.ttf" />
+    <Resource Include="Font\Roboto-Bold.ttf" />
+    <Resource Include="Font\Roboto-BoldItalic.ttf" />
+    <Resource Include="Font\Roboto-Italic.ttf" />
+    <Resource Include="Font\Roboto-Light.ttf" />
+    <Resource Include="Font\Roboto-LightItalic.ttf" />
+    <Resource Include="Font\Roboto-Medium.ttf" />
+    <Resource Include="Font\Roboto-MediumItalic.ttf" />
+    <Resource Include="Font\Roboto-Regular.ttf" />
+    <Resource Include="Font\Roboto-Thin.ttf" />
+    <Resource Include="Font\Roboto-ThinItalic.ttf" />
+    <Resource Include="Font\RobotoCondensed-Bold.ttf" />
+    <Resource Include="Font\RobotoCondensed-BoldItalic.ttf" />
+    <Resource Include="Font\RobotoCondensed-Italic.ttf" />
+    <Resource Include="Font\RobotoCondensed-Light.ttf" />
+    <Resource Include="Font\RobotoCondensed-LightItalic.ttf" />
+    <Resource Include="Font\RobotoCondensed-Regular.ttf" />
+    <Resource Include="Font\Lato-Black.ttf" />
+    <Resource Include="Font\Lato-BlackItalic.ttf" />
+    <Resource Include="Font\Lato-Bold.ttf" />
+    <Resource Include="Font\Lato-BoldItalic.ttf" />
+    <Resource Include="Font\Lato-Hairline.ttf" />
+    <Resource Include="Font\Lato-HairlineItalic.ttf" />
+    <Resource Include="Font\Lato-Italic.ttf" />
+    <Resource Include="Font\Lato-Light.ttf" />
+    <Resource Include="Font\Lato-LightItalic.ttf" />
+    <Resource Include="Font\Lato-Regular.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\logo.png" />
+    <Resource Include="Image\tab_icon\exit_icon.png" />
+    <Resource Include="Image\tab_icon\maximize_icon.png" />
+    <Resource Include="Image\tab_icon\tray_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\diary_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\home_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\progress_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\training_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\settings_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\trening_icon\leftarrow_icon.png" />
+    <Resource Include="Image\trening_icon\rightarrow_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\trening_icon\downarrow_icon.png" />
+    <Resource Include="Image\trening_icon\uparrow_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\defaultavatar_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\startscreen_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\diary_icon\checked_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\menu_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\menu_bg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\menu_bg3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\profile_picture\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\diary_icon\lunchplate_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\diary_icon\dinerplate_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\diary_icon\breakfastplate_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\menu_icon\logout_icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

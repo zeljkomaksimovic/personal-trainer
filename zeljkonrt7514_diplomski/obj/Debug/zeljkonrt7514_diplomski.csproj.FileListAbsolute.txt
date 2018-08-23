@@ -1,0 +1,370 @@
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_Content.g.cs
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+c:\users\max\documents\visual studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Nalozi.mdf
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Nalozi_log.ldf
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi.mdf
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi_log.ldf
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_Content.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.baml
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi.mdf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi_log.ldf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_Content.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\Register.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_Content.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\Nalozi.mdf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\Nalozi_log.ldf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\Register.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi.mdf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\Nalozi_log.ldf
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_Content.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Register.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Page1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Page1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Page1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Page1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Test1.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\MySql.Data.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\APITest.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\APITest.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\APITest.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\APITest.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Napredak.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\APITest.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Napredak.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\APITest.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Napredak.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\Diplomski 9_3\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\zeljkonrt7514_diplomski.pdb
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csprojAssemblyReference.cache
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\APITest.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Menu.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Napredak.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Pocetna.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Trening.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\App.g.cs
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski_MarkupCompile.lref
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\App.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\APITest.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Dnevnik.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Menu.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Napredak.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Pocetna.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Podesavanja.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\Trening.baml
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.g.resources
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.Properties.Resources.resources
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.GenerateResource.cache
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.csproj.CopyComplete
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.exe
+C:\Users\max\Desktop\DIPLOMSKI 1_4\DIPLOMSKI 1_4\zeljkonrt7514_diplomski\zeljkonrt7514_diplomski\obj\Debug\zeljkonrt7514_diplomski.pdb

@@ -1,0 +1,10 @@
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\bin\Release\zeljkonrt7514_diplomski.exe.config
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\zeljkonrt7514_diplomski.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\MainWindow.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\Menu.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\Register.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\Test.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\Test1.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\App.g.cs
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\zeljkonrt7514_diplomski_MarkupCompile.cache
+C:\Users\max\Desktop\zeljkonrt7514_diplomski -last - Copy - Copy - Copy\zeljkonrt7514_diplomski\obj\Release\zeljkonrt7514_diplomski_MarkupCompile.lref
